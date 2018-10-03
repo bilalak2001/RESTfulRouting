@@ -1,0 +1,34 @@
+
+
+body{
+    display: block;
+
+}
+.ui-header{
+            display: block;
+        color: white;
+}
+i.icon {
+    font-size: 1.5em;
+}
+
+.container.main{
+        display: block;
+
+    margin-top: 1.0em;
+    overflow: hidden;
+
+    
+}
+
+#delete{
+    display:inline;
+}
+
+#headerPic{
+        margin:0;
+        display: block;
+
+    
+}
+
